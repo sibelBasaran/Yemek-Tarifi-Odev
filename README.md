@@ -1,6 +1,6 @@
-## Yemek-Tarifi-Odev
+## Tatlı-Tarifi-Odev
 
-Patika HTML Yemek Tarifi Ödevi
+Patika HTML Tatlı Tarifi Ödevi
 
 
 
